@@ -17,17 +17,16 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
   limit: 9
   exclude:
     forks: true
+    archive: true
     projects:
       - z85-cli
-      - ng2-bar-rating
-      - angular-tooltipps
       - anuglar2-qrcode
 
 social_media:
@@ -35,6 +34,7 @@ social_media:
   # dribbble: your_username
   facebook: bjoern.kimminich
   # hackerrank: your_username
+  keybase: bkimminich
   linkedin: bkimminich
   # medium: @your_username
   stackoverflow: bkimminich
