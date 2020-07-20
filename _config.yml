@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     forks: true
-    archive: true
+    archived: true
     projects:
       - z85-cli
       - anuglar2-qrcode
@@ -35,16 +35,16 @@ social_media:
   facebook: bjoern.kimminich
   # hackerrank: your_username
   keybase: bkimminich
+  instagram: bkimminich
   linkedin: bkimminich
   # medium: @your_username
   stackoverflow: bkimminich
   # telegram: your_username
   twitter: bkimminich
-  youtube: kimminich
-  instagram: bkimminich
   # unsplash: your_username
   # vk: your_username
   website: https://kimminich.de
+  youtube: kimminich
 
 # topics:
 #  - name: CSS
